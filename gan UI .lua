@@ -410,12 +410,12 @@ end
       end)
 
       local r = math.random(1,6)
-      local r1 = 'rbxassetid://15717435079'
-      local r2 = 'rbxassetid://16223596759'
-      local r3 = 'rbxassetid://16234894414'
-      local r4 = 'rbxassetid://16234974826'
-      local r5 = 'rbxassetid://16235038119'
-      local r6 = 'rbxassetid://16235057072'
+      local r1 = 'rbxassetid://17727869076'
+      local r2 = 'rbxassetid://17727869076'
+      local r3 = 'rbxassetid://17727869076'
+      local r4 = 'rbxassetid://17727869076'
+      local r5 = 'rbxassetid://17727869076'
+      local r6 = 'rbxassetid://17727869076'
       
       if r ==1 then
         Imagr = r1
