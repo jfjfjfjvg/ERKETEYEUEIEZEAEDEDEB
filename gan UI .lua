@@ -28,7 +28,7 @@ function Ripple(obj)
 		Ripple.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 		Ripple.BackgroundTransparency = 1.000
 		Ripple.ZIndex = 8
-		Ripple.Image = "rbxassetid://17727869076"
+		Ripple.Image = "rbxassetid://18286135391"
 		Ripple.ImageTransparency = 0.800
 		Ripple.ScaleType = Enum.ScaleType.Fit
 		Ripple.ImageColor3 = Color3.fromRGB(255, 255, 255)
@@ -212,7 +212,7 @@ end
       DropShadow.BackgroundTransparency = 1.000
       DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
       DropShadow.Size = UDim2.new(1, 10, 1, 10)
-      DropShadow.Image = "rbxassetid://17727869076"
+      DropShadow.Image = "rbxassetid://18286135391"
       DropShadow.ImageColor3 = Color3.fromRGB(255,255,255)
       DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
 
@@ -410,12 +410,12 @@ end
       end)
 
       local r = math.random(1,6)
-      local r1 = 'rbxassetid://17727869076'
-      local r2 = 'rbxassetid://17727869076'
-      local r3 = 'rbxassetid://17727869076'
-      local r4 = 'rbxassetid://17727869076'
-      local r5 = 'rbxassetid://17727869076'
-      local r6 = 'rbxassetid://17727869076'
+      local r1 = 'rbxassetid://18286135391'
+      local r2 = 'rbxassetid://18286135391'
+      local r3 = 'rbxassetid://18286135391'
+      local r4 = 'rbxassetid://18286135391'
+      local r5 = 'rbxassetid://18286135391'
+      local r6 = 'rbxassetid://18286135391'
       
       if r ==1 then
         Imagr = r1
